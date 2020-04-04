@@ -1,0 +1,17 @@
+{
+    "projectName": "myamplifyproject",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "build",
+            "StartCommand": "exec"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

@@ -5,9 +5,12 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "node your-script.js"
   },
   "dependencies": {
+    "aws-amplify": "^2.2.7",
+    "aws-amplify-vue": "^1.1.4",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
