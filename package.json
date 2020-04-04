@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "node your-script.js"
+    "start": "node npm-cli.js"
   },
   "dependencies": {
     "aws-amplify": "^2.2.7",
